@@ -1,2 +1,2 @@
-# AAI551
-Engineering Programming: Python
+# Engineering Programming: Python
+Assignments and class notes from AAI 551
